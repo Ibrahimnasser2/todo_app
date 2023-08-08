@@ -1,16 +1,26 @@
 # todo_app
 
-A new Flutter project.
 
-## Getting Started
+A shopapp Flutter project.
 
-This project is a starting point for a Flutter application.
+### Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+# 1-create tasks page
+## ![image](https://github.com/Ibrahimnasser2/todo_app/assets/85452585/cbb053e3-2285-42f8-a379-9b97252790ae)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#----------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 2-done tasks page
+## ![image](https://github.com/Ibrahimnasser2/todo_app/assets/85452585/7914a57f-5573-4278-94f8-c65d3eab4a07)
+ 
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 3-archived tasks page
+## ![image](https://github.com/Ibrahimnasser2/todo_app/assets/85452585/fcf6499d-27f0-434d-a7c1-d2a1fd66dd44)
+
+
+
+
+
